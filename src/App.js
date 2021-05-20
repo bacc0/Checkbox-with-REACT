@@ -149,8 +149,7 @@ const styleApp = {
 
 const container = {
     display: 'flex', 
-    alignItems: 'center', 
-    // minWidth: 360 
+    alignItems: 'center',
 };
 
 

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 import CheckboxCheckedSVG from '../iconsSVG/Checkbox_checked';
 import CheckboxUncheckedSVG from '../iconsSVG/Checkbox_unchecked';
 
@@ -33,7 +32,6 @@ const Unchecked = ({ mainColor, width_height, disabled, checkBox_onChange, check
                 />
             )
         }
-        
 
         return tempResult;
     };

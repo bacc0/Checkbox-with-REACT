@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 import CheckboxCheckedSVG from '../iconsSVG/Checkbox_checked';
 import CheckboxHalfSVG from '../iconsSVG/Checkbox_half';
 import CheckboxUncheckedSVG from '../iconsSVG/Checkbox_unchecked';

@@ -14,7 +14,6 @@ const Checkbox_checked = ({ mainColor, checked_Fill_Color, width_height }) => {
             width={width_height}
             height={width_height}
         >
-
             <title>ic_checkbox_checked</title>
 
             <g id="_Group_" data-name="&lt;Group&gt;">
@@ -38,7 +37,6 @@ const Checkbox_checked = ({ mainColor, checked_Fill_Color, width_height }) => {
                     fill={fill_1}
                     opacity={opacity_1}
                 />
-
                 <polygon
                     id="_Path_"
                     data-name="&lt;Path&gt;"

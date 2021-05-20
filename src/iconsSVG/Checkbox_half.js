@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 const Checkbox_half = ({ mainColor, width_height }) => {
 
     return (
@@ -11,7 +10,6 @@ const Checkbox_half = ({ mainColor, width_height }) => {
             viewBox="0 0 24 24"
             width={width_height}
             height={width_height}
-
         >
             <title>ic_checkbox_half</title>
 

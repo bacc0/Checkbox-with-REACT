@@ -6,7 +6,6 @@ import Unchecked from './Unchecked';
 
 const CheckBox = ({ typeOfCheckBox, mainColor, width_height, disabled, checkBox_onChange, checked_Fill_Color}) => {
 
-
     return (
         <Fragment>
             {
